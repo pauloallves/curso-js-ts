@@ -1,4 +1,10 @@
 //Não podemos criar variáveis com palavras reservadas
+//Variáveis precisam ter nomes significativos
+//Não podemos começar variável com números
+//Não pode conter espaços ou caracteres especiais
+//para nomes de variáveis compostas, utilizamos camelCase, seguindo conversão
+//Variáveis são Case-sensitive
+//Não podemos redeclarar variáveis com let
 
 let nome; //declarando varável sem inicializá-la
 nome = 'João'; //iniciando variável
